@@ -1,0 +1,17 @@
+Install Git for windows.
+
+1. Open VSCode, go to project directory.
+
+Git Commands:
+
+git status
+-- to check whether git version controller is configured in our project.
+
+…or create a new repository on the command line
+echo "# DatingApp" >> README.md
+git status
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rakshithns/DatingApp.git
+git push -u origin master
