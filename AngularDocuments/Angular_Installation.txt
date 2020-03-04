@@ -1,0 +1,15 @@
+Download latest node package manager.
+
+To check the Node version installed.
+1. npm --v
+
+Installing the Angular CLI:
+
+	npm install -g @angular/cli or npm install -g @angular/cli@latest
+	ng help
+	ng generate --help
+	cd Directory
+	ng new myFirstAngularApplication
+	cd MyFirstAngularApplication
+
+
